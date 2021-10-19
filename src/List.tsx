@@ -17,8 +17,8 @@ const List = () => {
         loop
         roundLengths
         slidesPerView={1.42}
+        centeredSlides
         slidesOffsetBefore={56}
-        slidesOffsetAfter={71}
         creativeEffect={{
           limitProgress: 2,
           prev: {
